@@ -1,2 +1,0 @@
-# stockapps
-Begin app
